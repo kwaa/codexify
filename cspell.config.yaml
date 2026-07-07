@@ -12,6 +12,9 @@ words:
   - nixpkgs
   - pkgs
   - pname
+  - rmcp
   - rustc
+  - schemars
+  - serde
 ignoreWords: []
 import: []
