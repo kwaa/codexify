@@ -1,0 +1,17 @@
+version: "0.2"
+ignorePaths: []
+dictionaryDefinitions: []
+dictionaries: []
+words:
+  - clippy
+  - codex
+  - codexify
+  - direnv
+  - kwaa
+  - MSVC
+  - nixpkgs
+  - pkgs
+  - pname
+  - rustc
+ignoreWords: []
+import: []

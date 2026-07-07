@@ -1,0 +1,15 @@
+[package]
+name = "codexify"
+version = "0.0.1"
+edition = "2024"
+authors = [ "藍+85CD" ]
+rust-version = "1.95"
+description = ""
+documentation = "https://github.com/kwaa/codexify"
+readme = "README.md"
+homepage = "https://github.com/kwaa/codexify"
+repository = "https://github.com/kwaa/codexify"
+license = "Apache-2.0"
+publish = false
+
+[dependencies]
