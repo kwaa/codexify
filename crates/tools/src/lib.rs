@@ -27,7 +27,7 @@ pub use shell_command::{
   SHELL_COMMAND_TOOL_NAME, ShellCommandArgs, ShellCommandTool, shell_command, shell_command_tool,
 };
 pub use view_image::{
-  VIEW_IMAGE_TOOL_NAME, ViewImageArgs, ViewImageOutput, ViewImageTool, view_image, view_image_tool,
+  VIEW_IMAGE_TOOL_NAME, ViewImageArgs, ViewImageTool, view_image, view_image_tool,
 };
 
 pub(crate) fn tool_schema<T>() -> Arc<JsonObject>
